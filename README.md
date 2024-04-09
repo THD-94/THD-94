@@ -19,7 +19,7 @@
 ### Fourth semester:
 - [Agile prosject]()
 - [Algorithms and data structures]()
-- [Map-based web systems]() React, TypeScript and Vite
+- [Map-based web systems]() React, TypeScript, OpenLayers and Vite
 
 ### Fifth semester:
 - [IOS programmin]()
