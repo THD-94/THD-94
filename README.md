@@ -1,25 +1,25 @@
 # Trine H. Davidsen Education Frontend and Mobile development
 
 ### First semester:
-- [Databases](https://github.com/THD-94/Databases) SQL with MySQL Grading: passed (passed/not passed)
-- [Digital technology](https://github.com/THD-94/Digital-technology) Grading: passed (passed/not passed)
-- [Introduction to programming](https://github.com/THD-94/Introduction-to-programming) HTML and JavaScript Grading: passed (passed/not passed)
-- [Creative web project](https://github.com/THD-94/Creative-web-project) HTML and CSS Grading: passed (passed/not passed)
+- [Databases](https://github.com/THD-94/Databases) SQL with MySQL Grading: passed (passed/not passed) 6h solo
+- [Digital technology](https://github.com/THD-94/Digital-technology) Grading: passed (passed/not passed) 6h solo
+- [Introduction to programming](https://github.com/THD-94/Introduction-to-programming) HTML and JavaScript Grading: passed (passed/not passed) 24h group
+- [Creative web project](https://github.com/THD-94/Creative-web-project) HTML and CSS Grading: passed (passed/not passed) 11.days group
 
 ### Second semester:
-- [Object-oriented programming](https://github.com/THD-94/Student-event-registration) Java Grading: passed (passed/not passed)
-- [Information security](https://github.com/THD-94/information-security) Grading: passed (passed/not passed)
-- [Visual analytics](https://github.com/THD-94/Visual-Analytics)Tableau Grading: passed (passed/not passed)
+- [Object-oriented programming](https://github.com/THD-94/Student-event-registration) Java Grading: passed (passed/not passed) 24h solo
+- [Information security](https://github.com/THD-94/information-security) Grading: passed (passed/not passed) 6h solo
+- [Visual analytics](https://github.com/THD-94/Visual-Analytics)Tableau Grading: passed (passed/not passed) 14days group
 
 ### Third semester:
-- [Android programming](https://github.com/THD-94/Android-programming) Kotlin with Jetpack Compose Grading: A (A - F)
-- [Web application](https://github.com/THD-94/Web-application) React, C#, .NET, Vite and TypeScript Grading: A (A - F)
-- [Interaction design](https://github.com/THD-94/Interaction-design) FIGMA Grading: B (A - F)
+- [Android programming](https://github.com/THD-94/Android-programming) Kotlin with Jetpack Compose Grading: A (A - F) 4.weeks group
+- [Web application](https://github.com/THD-94/Web-application) React, C#, .NET, Vite and TypeScript Grading: A (A - F) 3.weeks group
+- [Interaction design](https://github.com/THD-94/Interaction-design) FIGMA Grading: B (A - F) 8.week group
 
 ### Fourth semester:
-- [Agile prosject]()
-- [Algorithms and data structures]()
-- [Map-based web systems]() React, TypeScript, OpenLayers and Vite
+- [Agile prosject]() 3.week group
+- [Algorithms and data structures]() 4.week group
+- [Map-based web systems]() React, TypeScript, OpenLayers and Vite 3.days group
 
 ### Fifth semester:
 - [IOS programmin]()
