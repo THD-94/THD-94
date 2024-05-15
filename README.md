@@ -9,7 +9,7 @@
 ### Second semester:
 - [Object-oriented programming](https://github.com/THD-94/Student-event-registration) Java Grading: passed (passed/not passed) 24h solo
 - [Information security](https://github.com/THD-94/information-security) Grading: passed (passed/not passed) 6h solo
-- [Visual analytics](https://github.com/THD-94/Visual-Analytics)Tableau Grading: passed (passed/not passed) 14days group
+- [Visual analytics](https://github.com/THD-94/Visual-Analytics) Tableau Grading: passed (passed/not passed) 14days group
 
 ### Third semester:
 - [Android programming](https://github.com/THD-94/Android-programming) Kotlin with Jetpack Compose Grading: A (A - F) 4.weeks group
