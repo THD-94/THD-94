@@ -17,9 +17,9 @@
 - [Interaction design](https://github.com/THD-94/Interaction-design) FIGMA Grading: B (A - F) 8.week group
 
 ### Fourth semester:
-- [Agile prosject]() 3.week group
-- [Algorithms and data structures]() 4.week group
-- [Map-based web systems](https://github.com/THD-94/Map-based-Web-systems) React, TypeScript, OpenLayers and Vite Grading: A (A-F) 3.days group
+- [Agile prosject](https://github.com/THD-94/smidig-prosjekt-eksamen) React, Bootstrap, JS, C#, .NET, SQL, Grading: A (A-F) 3.week group
+- [Algorithms and data structures]() Java Grading: B (A-F) 4.week group
+- [Map-based web systems](https://github.com/THD-94/Map-based-Web-systems) or: [Map-based web systems: School side /delivery](https://github.com/kristiania-kws2100-2024/kws2100-exam-Sanderchriss) React, TypeScript, OpenLayers and Vite Grading: A (A-F) 3.days group
 
 ### Fifth semester:
 - [IOS programmin]()
