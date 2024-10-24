@@ -19,7 +19,7 @@
 ### Fourth semester:
 - [Agile prosject](https://github.com/THD-94/smidig-prosjekt-eksamen) React, Bootstrap, JS, C#, .NET, SQL, Grading: A (A - F) 3.weeks group exam
 - [Algorithms and data structures]() Java Grading: B (A - F) 4.weeks group exam
-- [Map-based web systems](https://github.com/THD-94/Map-based-Web-systems) or: [Map-based web systems: School side /delivery](https://github.com/kristiania-kws2100-2024/kws2100-exam-Sanderchriss) React, TypeScript, OpenLayers and Vite Grading: A (A - F) 3.days group exam
+- [Map-based web systems](https://github.com/THD-94/KWS2100Exam) or: [Map-based web systems: School side /delivery](https://github.com/kristiania-kws2100-2024/kws2100-exam-Sanderchriss) React, TypeScript, OpenLayers and Vite Grading: A (A - F) 3.days group exam
 
 ### Fifth semester:
 - [IOS programmin]()
