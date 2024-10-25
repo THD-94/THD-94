@@ -23,7 +23,7 @@
 
 ### Fifth semester:
 - [IOS programmin]()
-- [Cross platform]() rading: (A - F) 21.days group exam, with [Victoria](https://github.com/vipr002) and [Leon](https://github.com/Leon1005)
+- [Cross platform]() Grading: (A - F) 21.days group exam, with [Victoria](https://github.com/vipr002) and [Leon](https://github.com/Leon1005)
 - [Research method]()
 
 ### Sixth semester:
