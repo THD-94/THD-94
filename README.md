@@ -22,9 +22,9 @@
 - [Map-based web systems](https://github.com/THD-94/KWS2100Exam) or: [Map-based web systems: School side /delivery](https://github.com/kristiania-kws2100-2024/kws2100-exam-Sanderchriss) React, TypeScript, OpenLayers and Vite. Grading: A (A - F) 3.days group exam, with [Sander]([https://github.com/Sanderchriss](https://github.com/Sanderchriss/KWS2100Exam)) and [Kristian]([https://github.com/Hedgehog1991](https://github.com/Hedgehog1991/kartExamen))
 
 ### Fifth semester:
-- [IOS programmin]()
-- [Cross platform]()  React Native, TS, Tailwind and Firebase. Grading: (A - F) 21.days group exam, with [Victoria](https://github.com/vipr002) and [Leon](https://github.com/Leon1005)
-- [Research method]()
+- [IOS programmin](https://github.com/THD-94/NewsApp) SwiftUI. Grading: A (A-F) 21.days individual exam.
+- [Cross platform](https://github.com/THD-94/ArtistApp)  React Native, TS, Tailwind and Firebase. Grading: A (A - F) 21.days group exam, with [Victoria](https://github.com/vipr002) and [Leon](https://github.com/Leon1005/TDS200-eksamen)
+- [Research method](https://github.com/THD-94/Roboter-i-helsevesenet-) Text. Grading: B (A-F) 84.days individual exam.
 
 ### Sixth semester:
 - [Bachelor]() with [Victoria](https://github.com/vipr002) and [Leon](https://github.com/Leon1005)
