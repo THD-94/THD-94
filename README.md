@@ -18,7 +18,7 @@
 
 ### Fourth semester:
 - [Agile prosject](https://github.com/THD-94/smidig-prosjekt-eksamen) React, Bootstrap, JS, C#, .NET, SQL. Grading: A (A - F) 3.weeks group exam, with [Victoria](https://github.com/vipr002), [Leon](https://github.com/Leon1005), [Eirik](https://github.com/eajohansen), [Stefan](https://github.com/Stefannaeve), [Tobias](https://github.com/TEKami13), [Stein]([https://github.com/SRR81](https://github.com/SRR81/smidig-prosjekt-eksamen)) og [Jostein](https://github.com/jbhansen87)
-- [Algorithms and data structures]() Java. Grading: B (A - F) 4.weeks group exam,  With: [Victoria](https://github.com/vipr002/algdat-exam), [Ulrik](), [Kristian](https://github.com/Hedgehog1991) and [Preben](https://github.com/prebenohre)
+- [Algorithms and data structures](https://github.com/THD-94/Algoritmer-og-datastrukturer) Java. Grading: B (A - F) 4.weeks group exam,  With: [Victoria](https://github.com/vipr002/algdat-exam), [Ulrik](), [Kristian](https://github.com/Hedgehog1991) and [Preben](https://github.com/prebenohre)
 - [Map-based web systems](https://github.com/THD-94/KWS2100Exam) or: [Map-based web systems: School side /delivery](https://github.com/kristiania-kws2100-2024/kws2100-exam-Sanderchriss) React, TypeScript, OpenLayers and Vite. Grading: A (A - F) 3.days group exam, with [Sander]([https://github.com/Sanderchriss](https://github.com/Sanderchriss/KWS2100Exam)) and [Kristian]([https://github.com/Hedgehog1991](https://github.com/Hedgehog1991/kartExamen))
 
 ### Fifth semester:
