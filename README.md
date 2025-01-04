@@ -1,4 +1,4 @@
-# Trine H. Davidsen Education Frontend and Mobile development
+# Trine H. Davidsen Bachelor in Frontend and Mobile development
 
 ### First semester:
 - [Databases](https://github.com/THD-94/Databases) SQL with MySQL. Grading: passed (passed/not passed) 6h individual exam
