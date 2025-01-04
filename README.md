@@ -12,8 +12,8 @@
 - [Visual analytics](https://github.com/THD-94/Visual-Analytics) Tableau. Grading: passed (passed/not passed) 14days group exam, with [Victoria](https://github.com/vipr002), [Rebecca](https://github.com/Rebecca005) and [Oda]()
 
 ### Third semester:
-- [Android programming](https://github.com/THD-94/Android-programming) Kotlin with Jetpack Compose. Grading: A (A - F) 4.weeks group exam, with [Victoria]([https://github.com/vipr002](https://github.com/vipr002/Android-exam)) and [Leon](https://github.com/Leon1005)
-- [Web application](https://github.com/THD-94/Web-application) React, C#, .NET, Vite and TypeScript. Grading: A (A - F) 3.weeks group exam, with [Victoria]([https://github.com/vipr002](https://github.com/vipr002/Webutvikling-exam)) and [Leon](https://github.com/Leon1005/webprosjekt)
+- [Android programming](https://github.com/THD-94/Android-programming) Kotlin with Jetpack Compose. Grading: A (A - F) 4.weeks group exam, with [Victoria](https://github.com/vipr002/Android-exam) and [Leon](https://github.com/Leon1005)
+- [Web application](https://github.com/THD-94/Web-application) React, C#, .NET, Vite and TypeScript. Grading: A (A - F) 3.weeks group exam, with [Victoria](https://github.com/vipr002/Webutvikling-exam) and [Leon](https://github.com/Leon1005/webprosjekt)
 - [Interaction design](https://github.com/THD-94/Interaction-design) FIGMA. Grading: B (A - F) 8.week group exam, with [Victoria](https://github.com/vipr002), [Leon](https://github.com/Leon1005) and [Sherru]()
 
 ### Fourth semester:
