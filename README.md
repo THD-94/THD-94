@@ -24,7 +24,7 @@
 ### Fifth semester:
 - [IOS programmin](https://github.com/THD-94/NewsApp) SwiftUI. Grading: A (A-F) 21.days individual exam.
 - [Cross platform](https://github.com/THD-94/ArtistApp)  React Native, TS, Tailwind and Firebase. Grading: A (A - F) 21.days group exam, with [Victoria](https://github.com/vipr002) and [Leon](https://github.com/Leon1005/TDS200-eksamen)
-- [Research method](https://github.com/THD-94/Roboter-i-helsevesenet-) Text. Grading: B (A-F) 84.days individual exam.
+- [Research method](https://github.com/THD-94/Roboter-i-helsevesenet-) Resarch strategy and metod. Grading: B (A-F) 84.days individual exam.
 
 ### Sixth semester:
 - [Bachelor]() with [Victoria](https://github.com/vipr002) and [Leon](https://github.com/Leon1005)
